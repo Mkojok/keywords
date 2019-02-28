@@ -1,3 +1,3 @@
 # keywords
 
-Unsupervised ways to get keywords from texts, using Yake and Rake
+Unsupervised ways to extract keywords from texts, using Yake and Rake.
